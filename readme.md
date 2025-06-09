@@ -14,7 +14,7 @@ Sudoku puzzles are categorized into the following difficulty levels:
 
 * `"expert"`
 
-* `"worlds toughest puzzle"`
+* `"worlds toughest puzzle"` (according to [sudoku2](https://sudoku2.com/play-the-hardest-sudoku-in-the-world/)
 
 Each of these preset boards can be transformed by:
 
@@ -62,6 +62,7 @@ These boards can be solved using a variety of methods. The `"depth-first search"
 
 ## To-Do
 * add `"dancing links"` solver method
+* the `"worlds toughest puzzle"` is actually the third toughest puzzle in the world - at least according to [sudokuwiki.org](https://www.sudokuwiki.org/Arto_Inkala_Sudoku); implement these puzzles
 * add gui via `pygame`
 
 ## License
