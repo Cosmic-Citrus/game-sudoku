@@ -28,7 +28,7 @@ Each of these preset boards can be transformed by:
 
 * reflecting the board vertically
 
-* remapping each character to another character
+* mapping each character to another character
 
 These boards can be solved using a variety of methods. The `"depth-first search"` solver is guaranteed to find a solution in non-optimal time (assuming the threshold recursion depth is not exceeded). One optimization to improve the search time is the `"ascending-size search"` method, which selects the next empty cell to fill by finding the empty cell for which the number of possible solutions is the minimum; this reduces the number of potential mistakes and back-tracks. The plot below shows a time-comparison of these methods.
 
