@@ -66,4 +66,4 @@ These boards can be solved using a variety of methods. The `"depth-first search"
 
 ## License
 
-This project is licensed under the Apache License License - see the LICENSE.md file for details
+This project is licensed under the Apache License - see the LICENSE file for details.
