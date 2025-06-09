@@ -60,6 +60,10 @@ These boards can be solved using a variety of methods. The `"depth-first search"
 * 0.1
   * Initial Release
 
+## To-Do
+* add `"dancing links"` solver method
+* add gui via pygame
+
 ## License
 
 This project is licensed under the Apache License License - see the LICENSE.md file for details
