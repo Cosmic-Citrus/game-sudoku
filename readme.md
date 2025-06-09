@@ -62,7 +62,7 @@ These boards can be solved using a variety of methods. The `"depth-first search"
 
 ## To-Do
 * add `"dancing links"` solver method
-* add gui via pygame
+* add gui via `pygame`
 
 ## License
 
