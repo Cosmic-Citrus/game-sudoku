@@ -49,9 +49,9 @@ These boards can be solved using a variety of methods. The `"depth-first search"
 
 * Create and solve a sudoku puzzle by running the following scripts
   
-  * `src/example_01-solve_sudoku_by_depth_first_search`
+  * `src/example_01-solve_sudoku_by_depth_first_search.py`
   
-  * `src/example_02-solve_sudoku_by_ascending_size_search`
+  * `src/example_02-solve_sudoku_by_ascending_size_search.py`
 
 * To view a comparison of solver methods, modify `path_to_save_directory` in `src/example_04-sudoku_solver_comparison` and then run it
 
