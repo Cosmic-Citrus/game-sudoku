@@ -53,7 +53,7 @@ These boards can be solved using a variety of methods. The `"depth-first search"
   
   * `src/example_02-solve_sudoku_by_ascending_size_search.py`
 
-* To view a comparison of solver methods, modify `path_to_save_directory` in `src/example_04-sudoku_solver_comparison` and then run it
+* To view a comparison of solver methods, modify `path_to_save_directory` in `src/example_04-sudoku_solver_comparison` and then run the script
 
 ## Version History
 
